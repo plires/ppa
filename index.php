@@ -255,7 +255,7 @@
 	  			<h4 data-aos="fade-up">PPA GBA SUR</h4>
 	  			<a 
 	  				class="transition" 
-	  				href="https://web.whatsapp.com/send?phone=+<?= WHATSAPP ?>&text=Hola,%20Necesito%20hacer%20una%20consulta...%20"
+	  				href="https://api.whatsapp.com/send?phone=+<?= WHATSAPP ?>&text=Hola,%20Necesito%20hacer%20una%20consulta...%20"
 	  				rel="noopener" 
 	  				target="_blank">
 	  				<i data-aos="fade-up" class="transition fa-solid fa-mobile-screen-button"></i><?= WHATSAPP_VISIBLE ?>
